@@ -116,6 +116,7 @@ class ToDoListApp:
 
         self.canvas.create_window((0, 0), window=self.scrollable_frame, anchor="nw")
 
+
         # Create the buttons frame
         self.button_frame = tk.Frame(self.root)
         self.button_frame.pack(fill="x")
