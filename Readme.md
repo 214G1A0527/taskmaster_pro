@@ -39,3 +39,47 @@ This To-Do List App is a task management application built using Python's Tkinte
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/todo-list-app.git
+2. Navigate to the project folder:
+   ```bash
+   cd todo-list-app
+3. Run the application:
+   ```bash
+   python main.py
+
+## How to Use
+
+1. **Adding Tasks**: Click the "Add Task" button and fill in the task's name, due date, time, priority, creator, assignee, and description. Click "OK" to save the task.
+
+2. **Editing Tasks**: Select a task by clicking on it, then click "Edit Task" to modify its details.
+
+3. **Removing Tasks**: Select a task and click "Remove Task" to delete it.
+
+4. **Marking Tasks as Completed**: Select a task and click "Mark Completed" to mark it as finished.
+
+5. **Searching Tasks**: Type in the search bar to filter tasks by name.
+
+6. **Notifications**: The app will notify you 30 minutes before a task is due.
+
+## File Structure
+   ```bash
+    .
+    ├── main.py        # Main application file
+    ├── tasks.json     # File where tasks are saved
+    └── README.md      # Project README file
+   ```
+## Future Improvements
+- Add support for recurring tasks.
+- Implement more advanced notification options.
+- Allow task categorization and sorting by priority or due date.
+  
+## License
+- This project is licensed under the MIT License.
+
+Feel free to contribute by opening issues or submitting pull requests!
+
+
+
+
+  
+  
+   
