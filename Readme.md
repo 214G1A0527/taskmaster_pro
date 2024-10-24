@@ -1,7 +1,7 @@
-# To-Do List App
+# Task Master Pro App
 
 ## Overview
-This To-Do List App is a task management application built using Python's Tkinter library. The app allows users to create, edit, delete, and track tasks, with additional features such as notifications for tasks due soon, priority management, and dark mode. It saves tasks to a JSON file and loads them when the app is reopened.
+This Task Master Pro App is a task management application built using Python's Tkinter library. The app allows users to create, edit, delete, and track tasks, with additional features such as notifications for tasks due soon, priority management, and dark mode. It saves tasks to a JSON file and loads them when the app is reopened.
 
 ## Features
 
